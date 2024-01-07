@@ -24,8 +24,6 @@ Saudações! Eu sou Igor Bruno, um estudante do ensino médio no IFRN, atualment
   <img title="Debian" align="center" alt="Debian" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" />
 </div>
 
-## Social Media
-
 
 
 
