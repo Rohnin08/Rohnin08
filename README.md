@@ -1,10 +1,10 @@
 # 🧐 Igor Bruno
 
 ### pt:
-Saudações! Eu sou Igor Bruno, um estudante do ensino médio no IFRN, atualmente cursando técnico de informática para internet. Sou católico, melancólico e aspirante a desenvolvedor web.
+Saudações! Eu sou Igor Bruno, um estudante do ensino médio no IFRN, atualmente cursando 3ª ano técnico de informática para internet. Sou católico, melancólico e aspirante a desenvolvedor web.
 
 ### en: 
-Hello! I am Igor Bruno, a high school student at IFRN, currently pursuing a technical degree in internet computing. I am Catholic, melancholic, and an aspiring web developer.
+Hello! I am Igor Bruno, a high school student at IFRN, currently pursuing 3º of a technical degree in internet computing. I am Catholic, melancholic, and an aspiring web developer.
 
 ## Interesses
 
