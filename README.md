@@ -26,4 +26,12 @@ Hello! I am Igor Bruno, a high school student at IFRN, currently pursuing 4º of
   <img title="Debian" align="center" alt="Debian" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" />
 </div>
 
+###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/96gjoojhzx0fb2bt5gqesqguy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=96gjoojhzx0fb2bt5gqesqguy&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
