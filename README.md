@@ -29,8 +29,9 @@ Hello! I am Igor Bruno, a high school student at IFRN, currently pursuing 4º of
 ###
 
 <div align="center">
-  <a href="">
-    <img src=""  />
+  <a href="https://open.spotify.com/user/edyttonbruno">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=edyttonbruno&count=5" 
+         alt="Músicas recentes do Spotify" />
   </a>
 </div>
 
