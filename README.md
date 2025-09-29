@@ -22,4 +22,3 @@ Hello! I am Igor Bruno, a high school student at IFRN, currently pursuing 4º of
   <img title="Flask" align="center" alt="Flask" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
   <img title="Debian" align="center" alt="Debian" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" />
 </div>
-###
