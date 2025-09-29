@@ -1,17 +1,14 @@
-# 🧐 Igor Bruno
-
-### pt:
-Saudações! Eu sou Igor Bruno, um estudante do ensino médio no IFRN, atualmente cursando 4ª ano técnico de informática para internet. Sou católico, melancólico e aspirante a desenvolvedor web.
-
 ### en: 
-Hello! I am Igor Bruno, a high school student at IFRN, currently pursuing 4º of a technical degree in internet computing. I am Catholic, melancholic, and an aspiring web developer.
+Hello! I am Igor Bruno, a high school student at IFRN, currently pursuing 4º of a technical degree in internet computing.
 
 ## Interesses
 
-- 💪 Treino
-- 🎧 Música
+- 💪 Gym
+- 🎧 Músic
 - 🤓 Animes
-- 🎮 Jogos
+- 📖 Books
+- 🎮 Games
+- ✝️ Catholic Church
   
 ## Sistemas que eu já tive contato
 
@@ -25,14 +22,4 @@ Hello! I am Igor Bruno, a high school student at IFRN, currently pursuing 4º of
   <img title="Flask" align="center" alt="Flask" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
   <img title="Debian" align="center" alt="Debian" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/edyttonbruno">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=edyttonbruno&count=5" 
-         alt="Músicas recentes do Spotify" />
-  </a>
-</div>
-
 ###
