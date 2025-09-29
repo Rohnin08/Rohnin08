@@ -17,6 +17,7 @@ Hello! I am Igor Bruno, a high school student at IFRN, currently pursuing 4º of
   <img title="HTML" align="center" alt="HTML" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img title="CSS" align="center" alt="CSS" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img title="JavaScript" align="center" alt="JavaScript" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img title="React" align="center" alt="Debian" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
   <img title="Bootstrap" align="center" alt="Bootstrap" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img title="MySQL" align="center" alt="MySQL" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
   <img title="Flask" align="center" alt="Flask" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
