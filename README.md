@@ -1,5 +1,5 @@
 ### en: 
-Hello! I am Igor Bruno, a high school student at IFRN, currently pursuing 4º of a technical degree in internet computing.
+Hello! I'm Igor Bruno, a high school student at IFRN, currently pursuing 4º of a technical degree in internet computing.
 
 ## Interesses
 
