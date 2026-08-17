@@ -1,7 +1,10 @@
 ### en: 
 Hello! I'm Igor Bruno,currently pursuing Information Systems at UFRN.
 
-## Interesses
+### pt: 
+Saudações, Eu sou Igor Bruno, atualmente estou cursado Sistemas de Informação na UFRN.
+
+## Interesses/Interests
 
 - 💪 Gym
 - 🎧 Music
