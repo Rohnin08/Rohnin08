@@ -4,7 +4,7 @@ Hello! I'm Igor Bruno,currently pursuing Information Systems at UFRN.
 ## Interesses
 
 - 💪 Gym
-- 🎧 Músic
+- 🎧 Music
 - 🤓 Animes
 - 📖 Books
 - 🎮 Games
