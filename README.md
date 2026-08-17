@@ -10,7 +10,7 @@ Hello! I'm Igor Bruno,currently pursuing Information Systems at UFRN.
 - 🎮 Games
 - ✝️ Catholic Church
   
-## Sistemas que eu já tive contato
+## Tecnologias que eu já tive contato/Technologies I have worked with
 
 <div style="display: inline_block">
   <img title="Python" align="center" alt="Python" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
